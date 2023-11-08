@@ -44,6 +44,7 @@ Merging is the process of combining changes from one branch into another. When a
 
 ## Docs
  This is an abbreviation for the word documentation, a piece of text that provides information on how to contribute to OSS projects and expectations for contributors. Markdown, a text-based coding language is  often used to create these forms of content. Want to see one in action? Check out the [Style Guide in our Pizza Verse repo](https://github.com/open-sauced/pizza-verse/blob/main/style-guide.md)!
+ 
 ## Onboarding
 
 Onboarding documentation helps new team members or collaborators quickly become familiar with a project's structure, goals, and processes.
@@ -71,15 +72,6 @@ A repository is a central location where code is stored and managed. In open sou
 ## Style Guide
 
 A style guide is a set of rules and conventions that define the preferred formatting, writing style, and visual elements used in documentation and other content. This helps maintain consistency and clarity across documents, making them easier to read and understand.
-
-
-## Onboarding
-
-Onboarding documentation helps new team members or collaborators quickly become familiar with a project's structure, goals, and processes.
-
-## Release Notes
-
-Release notes are documents that detail changes, enhancements, bug fixes, and new features in each software release. They inform users and stakeholders about what to expect in a new version of the software.
 
 <a href="https://github.com/open-sauced/intro/edit/main/10-glossary.md">
  ✏️  Edit this page
